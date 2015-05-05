@@ -1,0 +1,189 @@
+Group,Common,Latin,Geographic area,dist,lat_start,long_start,lat_end,long_end
+Terrestrial birds,Marsh harrier,Circus aeruginosus,Europe - W Africa,,,,,
+Terrestrial birds,Osprey,Pandion haliaetus,Europe - W Africa,,,,,
+Terrestrial birds,Lesser spotted eagle,Aquila pomarina,Europe - S Africa,,,,,
+Terrestrial birds,White stork,Ciconia ciconia,Europe - S Africa,,,,,
+Terrestrial birds,Black stork,Ciconia nigra,Europe-Africa,,,,,
+Terrestrial birds,Black-necked crane,Grus nigricollis,,,,,,
+Terrestrial birds,American Bittern,Botaurus lentiginosus,North America,,,,,
+Terrestrial birds,Brown Pelican,Pelecanus occidentalis,North America,,,,,
+Terrestrial birds,Wood Thrush,Hylocichla mustelina,North America,,,,,
+Terrestrial birds,Snowy Owl,Bubo scandinavicus,North America,,,,,
+Terrestrial birds,Golden Eagle,Aquila chrysaetos,North America,,,,,
+Terrestrial birds,Bald Eagle,Haliaeetus leucocephalus,North America,,,,,
+Terrestrial birds,Prairie Falcon,Falcon mexicanus,North America,,,,,
+Terrestrial birds,Osprey,Pandion haliaetus,North America,,,,,
+Terrestrial birds,Osprey,Pandion haliaetus,North America,,,,,
+Terrestrial birds,Long-billed Curlew,Numenius americanus,North America,,,,,
+Shorebirds,Hudosonian godwit,Limosa haemastica,Alaska,">10,000 km 
+(6500 km to South, >10000 km to North)",,,,
+Shorebirds,Long-billed curlew,Numenius americanus,N. America,"<1000 km, <10,000 km (676-3098)",,,,
+Shorebirds,NewZealand bar-tailed godwit,Limosa lapponica baueri,New Zealand,"> 10,000 km",,,,
+Shorebirds,Little Ringed Plover,Charadrius dubius,Scandinavia,"<10,000 km (5824-6866)",,,,
+Terrestrial birds,Steller’s Sea Eagle,Haliaeetus pelagicus,Asia,"<10,000",,,,
+Terrestrial birds,Asian Houbara Bustards,Chlamydotis macqueenii,Asia,"<10,000",,,,
+Terrestrial birds,Asian Great Bustards,Otis tarda dybowskii,Asia,"<10,000",,,,
+Terrestrial birds,New Zealand falcon,Falco novaeseelandiae,New Zealand,up to 587 km2 home range,,,,
+Shorebirds,"bar-tailed 
+godwits",Limosa lapponica baueri,New Zealand,"<10,000",,,,
+Terrestrial birds,bar-headed geese,Anser indicus,Asia,"<10,000 (known from previous studies)",,,,
+Terrestrial birds,bar-headed geese,Anser indicus,Asia,"<10,000",,,,
+Terrestrial birds,black-necked cranes,Grus nigricollis,Asia,"<10,000",,,,
+Marine mammals,Polar bears,Ursus maritimus,North America,1000,57.13,-92.78,61.09,-80.41
+Marine mammals,Polar bears,Ursus maritimus,North America,1000,NA,NA,NA,NA
+Marine mammals,Polar bears,Ursus maritimus,"Arctic (Norway, W Russia)",10000,70.4,58,76.9,96
+Marine mammals,Polar bears,Ursus maritimus,"Arctic (USA, Greenland)",10000,70.3,148.5,82.4,16
+Marine mammals,Polar bears,Ursus maritimus,Arctic (Noway),1000,80,30,NA,NA
+Marine mammals,Polar bears,Ursus maritimus,Arctic (N. America),1000,NA,NA,NA,NA
+Marine mammals,Northern Elephant Seals,Mirounga angustirostris,NE Pacific Ocean,"100,000",34,120.4,48,137.5
+Marine mammals,Northern Elephant Seals,Mirounga angustirostris,NE Pacific Ocean,10000,37.5,122.5,41,165
+Marine mammals,Northern Elephant Seals,Mirounga angustirostris,NE Pacific Ocean,"10,000",37.1,122.3,42,170
+Marine mammals,Dugong,Dugong dugon,Australia,1000,-19.25,147,-18.2,146.2
+Marine mammals,Dugong,Dugong dugon,Australia,1000,-19.82,147.75,-19.3,146.95
+Marine mammals,Dugong,Dugong dugon,Australia,1000,-18.25,146.2,-14.35,143.95
+Marine mammals,West Indian Manatee,Trichechus manatus,North America,1000,26,80.1,32.75,79.75
+Terrestrial mammals,Moose,Alces alces,North America,100,,,,
+Terrestrial mammals,Moose,Alces alces,Europe,100,,,,
+Terrestrial mammals,Moose,Alces alces,Europe,,,,,
+Terrestrial mammals,Moose,Alces alces,Europe,217,66.1,13.63,64.91,17.55
+Terrestrial mammals,Moose,Alces alces,Europe,50,61.31,9.627,60.97,10.32
+Terrestrial mammals,Moose,Alces alces,North America,20,58.4,135.7,58.58,135.95
+Terrestrial mammals,Moose,Alces alces,Europe,135,66.25,14.18,65.52,17.53
+Terrestrial mammals,Pronghorn,Antilocarpa americana,North America,180,NA,NA,NA,NA
+Terrestrial mammals,Pronghorn,Antilocarpa americana,North America,253,NA,NA,NA,NA
+Terrestrial mammals,Pronghorn,Antilocarpa americana,North America,23,NA,NA,NA,NA
+Terrestrial mammals,Pronghorn,Antilocarpa americana,North America,258,NA,NA,NA,NA
+Terrestrial mammals,Pronghorn,Antilocarpa americana,North America,50,NA,NA,NA,NA
+Terrestrial mammals,Pronghorn,Antilocarpa americana,North America,100,NA,NA,NA,NA
+Terrestrial mammals,European bison,Bison bonasus,Europe,23,49.27932778,22.47991667,,
+Terrestrial mammals,Roe deer,Capreolus capreolus,Europe,19,46.15,10.76666667,,
+Terrestrial mammals,Roe deer,Capreolus capreolus,Europe,46,59.88306389,10.22480278,,
+Terrestrial mammals,Siberian roe deer,Capreolus pygargus,Russia,200,51.82450833,129.1700139,,
+Terrestrial mammals,Red deer,Cervus elaphus,North America,140,44.42777778,110.5884861,,
+Terrestrial mammals,Red deer,Cervus elaphus,Europe,11.3,46.50611111,13.43944444,,
+Terrestrial mammals,Red deer,Cervus elaphus,Europe,14.2,45.07333333,6.889444444,,
+Terrestrial mammals,Sika deer,Cervus nippon,Asia,NA,43.21666667,143.8833333,,
+Terrestrial mammals,Sika deer,Cervus nippon,Asia,22.9,36.1,138.1833333,,
+Terrestrial mammals,Sika deer,Cervus nippon,Asia,101.7,43.21666667,143.8833333,,
+Terrestrial mammals,Sika deer,Cervus nippon,Asia,70,43.43333333,144.0833333,,
+Terrestrial mammals,Sika deer,Cervus nippon,North America,6.8,38.449625,76.05916944,,
+Terrestrial mammals,Blue wildebeest,Connochaetes taurinus,Africa,~90,3.486002778,35.97099444,,
+Terrestrial mammals,Zebra,Equus burchelli,Africa,~140,20.10511667,24.17455833,,
+Terrestrial mammals,Zebra,Equus burchelli,Africa,336,20.10511667,24.17455833,,
+Terrestrial mammals,Huemal,Hippocamelus bisculcus,South America,,,,,
+Terrestrial mammals,African elephant,Loxodonta africana,Africa,90,2.333333333,37.33333333,,
+Terrestrial mammals,African elephant,Loxodonta africana,Africa,4734,16.1,3.016666667,14.05,0.133333333
+Terrestrial mammals,African elephant,Loxodonta africana,Africa,,24.25,31.65,25.05,32
+Terrestrial mammals,African elephant,Loxodonta africana,Africa,160,19.4359,14.38317222,,
+Terrestrial mammals,African elephant,Loxodonta africana,Africa,100,4.005030556,35.99911111,,
+Terrestrial mammals,African elephant,Loxodonta africana,Africa,90,2.333333333,37.33333333,,
+Terrestrial mammals,African elephant,Loxodonta africana,"Africa, Etosha",200,18.87861111,16.30663611,,
+Terrestrial mammals,African elephant,Loxodonta africana,"Africa, Khaudom",180,18.72191389,20.56100556,,
+Terrestrial mammals,African elephant,Loxodonta africana,"Africa, Ngamiland",100,18.29888333,22.22528889,,
+Terrestrial mammals,African elephant,Loxodonta africana,"Africa, Kafue",125,16.53523056,25.56328056,,
+Terrestrial mammals,African elephant,Loxodonta africana,"Africa, Zambezi",125,15.33863333,29.60998333,,
+Terrestrial mammals,African elephant,Loxodonta africana,"Africa, S Luangwa",150,13.17178611,31.50019444,,
+Terrestrial mammals,African elephant,Loxodonta africana,"Africa, N Luangwa",50,11.92270278,32.16699722,,
+Terrestrial mammals,African elephant,Loxodonta africana,"Africa, Kasungu",30,12.91066111,33.16878333,,
+Terrestrial mammals,African elephant,Loxodonta africana,"Africa, Vwaza",40,11.03269722,33.48255833,,
+Terrestrial mammals,African elephant,Loxodonta africana,"Africa, Nyika",50,10.81625278,33.79876944,,
+Terrestrial mammals,African elephant,Loxodonta africana,"Africa, Limpopo",125,23.70697222,32.17990556,,
+Terrestrial mammals,African elephant,Loxodonta africana,"Africa, Maputu",25,24.88428611,32.19418056,,
+Terrestrial mammals,African elephant,Loxodonta africana,Africa,,,,,
+Terrestrial mammals,African elephant,Loxodonta africana,Africa,,,,,
+Terrestrial mammals,African elephant,Loxodonta africana,Africa,,,,,
+Terrestrial mammals,White-tailed deer,Odocoileus virginianus,North America,,,,,
+Terrestrial mammals,White-tailed deer,Odocoileus virginianus,North America,,,,,
+Terrestrial mammals,White-tailed deer,Odocoileus virginianus,North America,,,,,
+Terrestrial mammals,White-tailed deer,Odocoileus virginianus,North America,,,,,
+Terrestrial mammals,White-tailed deer,Odocoileus virginianus,North America,,,,,
+Terrestrial mammals,White-tailed deer,Odocoileus virginianus,North America,,,,,
+Terrestrial mammals,White-tailed deer,Odocoileus virginianus,North America,,,,,
+Terrestrial mammals,White-tailed deer,Odocoileus virginianus,North America,,,,,
+Terrestrial mammals,White-tailed deer,Odocoileus virginianus,North America,,,,,
+Terrestrial mammals,White-tailed deer,Odocoileus virginianus,North America,,,,,
+Terrestrial mammals,White-tailed deer,Odocoileus virginianus,North America,,,,,
+Terrestrial mammals,Mule deer,Odocoileus hemionus,North America,,,,,
+Terrestrial mammals,Mule deer,Odocoileus hemionus,North America,,,,,
+Terrestrial mammals,Mule deer,Odocoileus hemionus,North America,,,,,
+Terrestrial mammals,Mule deer,Odocoileus hemionus,North America,,,,,
+Terrestrial mammals,Mule deer,Odocoileus hemionus,North America,,,,,
+Terrestrial mammals,Mule deer,Odocoileus hemionus,North America,,,,,
+Terrestrial mammals,Mule deer,Odocoileus hemionus,North America,,,,,
+Terrestrial mammals,Mule deer,Odocoileus hemionus,North America,,,,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,,,,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,1000,,,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,,70.58,-153.67,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,100,,,,
+Marine Turtles,Loggerhead,Caretta caretta,Mediterranean,1000,37.7,20.9,45.6,13.3
+Terrestrial birds,surf scoter,Melanitta perspicillata,North America,,,,,
+Terrestrial birds,Egyptian vulture,Neophron percnopterus,Europe,,,,,
+Terrestrial birds,Tundra Swan,Cygnus columbianus columbianus,North America,,,,,
+Snake,Eastern Indigo Snake,Drymarchon couperi,North America,10,,,,
+Terrestrial mammals,Reindeer,Rangifer tarandus groenlandicus,North America,100,,,,
+Carnivores,wolf,Canis lupus,Canadian Arctic,one way 508 ~ 25.6 km,,,,
+Carnivores,lynx,Lynx canadensis,Canada,?,,,,
+Marine turtles,Green sea turtle,Chelonia mydas,W Atlantic Ocean,1000,19.4,-81.4,20.9,-90.4
+Marine turtles,Green sea turtle,Chelonia mydas,Mediterranean Sea,10000,35.3,33.6,31.5,15.7
+Marine turtles,Loggerhead sea turtle,Caretta caretta,Mediterranean Sea,10000,35.3,33.6,34.3,10.3
+Marine turtles,Loggerhead sea turtle,Caretta caretta,Mediterranean Sea,1000,35.2,12.6,33,22.9
+Marine turtles,Loggerhead sea turtle,Caretta caretta,W Atlantic Ocean,10000,28.2,-80.6,38.5,-73.4
+Marine turtles,Green sea turtle,Chelonia mydas,W Pasific Ocean,10000,23.4,119.5,31.7,129.9
+Marine turtles,Leatherback sea turtle,Dermochelys coriacea,Atlantic Ocean,10000,5.8,-54,50.3,-7.3
+Marine turtles,Loggerhead sea turtle,Caretta caretta,W Atlantic Ocean,10000,30.8,-81.47,38.8,74.2
+Marine turtles,Loggerhead sea turtle,Caretta caretta,W Atlantic Ocean,1000,24.6,-82.9,22.4,-74
+Marine turtles,Loggerhead sea turtle,Caretta caretta,W Atlantic Ocean,1000,33.9,-78.1,26.8,-80
+Marine turtles,Loggerhead sea turtle,Caretta caretta,W Atlantic Ocean,1000,,,,
+Marine turtles,Loggerhead sea turtle,Caretta caretta,Mediterranean Sea,10000,37.7,20.9,38.22,0.7
+Marine turtles,Leatherback sea turtle,Dermochelys coriacea,W Atlantic Ocean,10000,44,-64,4.1,-48.6
+Marine turtles,Leatherback sea turtle,Dermochelys coriacea,W Atlantic Ocean,10000,44,-64,4.1,-48.6
+Marine turtles,Leatherback sea turtle,Dermochelys coriacea,W Atlantic Ocean,10000,-29.5,-41.7,-7,-27
+Marine turtles,Loggerhead sea turtle,Caretta caretta,W Atlantic Ocean,10000,37,-76,44,-38
+Marine turtles,Loggerhead sea turtle,Caretta caretta,W Atlantic Ocean,10000,-12.9,-38.3,-0.4,-46.9
+Marine turtles,Olive ridley sea turtle,Lepidochelys olivacea,E Pacific Ocean,10000,10.8,-85.7,11,-117
+Marine turtles,Kemp’s ridley sea turtles,Lepidochelys kempii,W Atlantic Ocean,10000,27,-97.5,25,-80
+Marine turtles,Loggerhead sea turtle,Caretta caretta,W Atlantic Ocean,1000,27.1,-82.5,22.5,-77
+Marine turtles,Loggerhead sea turtle,Caretta caretta,E Atlantic Ocean,1000,16.1,-22.8,20.4,-16.5
+Marine turtles,Loggerhead sea turtle,Caretta caretta,Mediterranean Sea,10000,37.7,20.9,45.3,12.4
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,1000,,,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,1000,,,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,100,,,,
+Seabirds,Cory's shearwater,Calonectris diomedea,Europe,,,,,
+Seabirds,Great Skua,Stercirarious skua,Northeast Atlantic,,,,,
+Seabirds,Atlantic Puffin,Fratercula arctica,Northeast Atlantic,,,,,
+Seabirds,South polar skua,Catharacta maccormicki,Antractica,,,,,
+Seabirds,Thick-billed murre,Uria lomvia,Northwest Atlantic,10000,,,,
+Seabirds,Common murre,Uria aalge,Northwest Atlantic,10000,,,,
+Seabirds,Scopoli's shearwater,Calonetris diomedea,Europe,"10,000",,,,
+Seabirds,Black-browed Albatross,Thalassarche melanophrys,sub-Antarctica,,,,,
+Seabirds,Black-browed albatross,Thalassarche melanophrys,South Atlantic,10000,,,,
+Seabirds,Yelkouan Shearwater,Puffinus yelkouan,Europe,,,,,
+Seabirds,Wandering albatross,Diomedea exulans,sub-Antarctica,10000,-50,70,-50,-110
+Seabirds,Streaked shearwater,Calonectris leucomelas,Asia,,,,,
+Seabirds,Kittywake,Rissa tridactyla,Northeast Atlantic (Kongsfjorden),10000,78.9,12.22,,
+Seabirds,Kittywake,Rissa tridactyla,Northeast Atlantic (Hornøya),10000,70.38,31.15,,
+Seabirds,Kittywake,Rissa tridactyla,Northeast Atlantic (Røst),10000,67.05,12.08,,
+Seabirds,Kittywake,Rissa tridactyla,Northeast Atlantic (Kippaku),10000,73.7,-56.67,,
+Seabirds,Cory's shearwater,Calonectris borealis,Northeast Atlantic (Selvagem Grande),100000,30.03,-15.87,,
+Seabirds,Manx Shearwaters,Puffinus puffinus,"Northeast Atlantic (Lighthouse
+Island)",10000,55.12,5.87,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,,,,,
+Terrestrial mammals,Elk,Cervus canadensis,North America,100,51.5,-115.93,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,,,,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,,,,,
+Terrestrial mammals,Caribou,Rangifer tarandus,Europe,100,59.23,7.78,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,1000,,,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,100,,,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,,,,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,1000,57,-65,,
+Terrestrial mammals,Caribou,Rangifer tarandus,North America,1000,61,-74,,
+Seabirds,rhinoceros auklet,Cerorhinca monocerata,Asia,,,,,
+Tortoise,Galapagos giant tortoise,Chelonooidis nigra,South America,100,33,119,,
+Seabirds,Lesser Black-backed Gull,Larus fuscus,Europe,10000,65.32,11.62,-1,33
+Seabirds,Cory's shearwater,Calonectris diomedea,Europe,,30,-15,,
+Seabirds,Black-browed albatross,,South Atlantic,,-54,-38,,
+Seabirds,Lesser Black-backed Gull,Larus fuscus,Europe,10000,55.58,10.6,36.8,5
+Seabirds,Brown-headed gulls,Larus brunnicephalus,Asia,10000,13.515,100.65,44,88
+Seabirds,Ivory gull,Pagophila eburnea,North America,10000,78.8,-101.27,55,-59
+Seabirds,Black-legged kittiwake,Rissa tridactyla,North America (Pacific),10000,61.2,-146.6,,
+Seabirds,Black-legged kittiwake,Rissa tridactyla,North America (Pacific),10000,56.9,-170.5,42,-142
