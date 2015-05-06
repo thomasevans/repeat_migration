@@ -20,7 +20,7 @@ unique((data.tab$Group))
 
 data(worldHiresMapEnv)
 
-pdf("test.map2.pdf")
+pdf("test.map3.pdf")
 
 c.xlim = c(-180,180)
 c.ylim = c(-90,90)
@@ -49,13 +49,21 @@ points(data.tab$long_start, data.tab$lat_start, bg = g.col,
 #          lty = 1,
 #          lwd = 5)
 # ?segments
+i <- 2
 x <- !is.na(data.tab$lat_start) & !is.na(data.tab$lat_end)
 for(i in 1:sum(x)){
-lines(gcIntermediate(cbind(data.tab$long_start[x][i], data.tab$lat_start[x][i]),
-                     cbind(data.tab$long_end[x][i], data.tab$lat_end[x][i])),
+lines((((gcIntermediate(cbind(data.tab$long_start[x][i], data.tab$lat_start[x][i]),
+                     cbind(data.tab$long_end[x][i], data.tab$lat_end[x][i]),
+                     breakAtDateLine = TRUE)))),
                      col = addalpha(g.col[x][i], alpha = 0.5), lwd = 3)
 }
 # ?gcIntermediate
+# ?matplot
+# z <- gcIntermediate(cbind(data.tab$long_start[x][i], data.tab$lat_start[x][i]),
+#                     cbind(data.tab$long_end[x][i], data.tab$lat_end[x][i]),
+#                     breakAtDateLine = TRUE)
+# length(z)
+
 box()
 axis(side=(1),las=1)
 axis(side=(2),las=1)
